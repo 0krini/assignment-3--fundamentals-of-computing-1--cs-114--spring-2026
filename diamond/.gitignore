@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!.editorconfig
+!Makefile
+!Diamond.java
