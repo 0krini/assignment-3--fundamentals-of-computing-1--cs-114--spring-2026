@@ -62,7 +62,7 @@ For the second program, you’ll be rendering a matrix whose size is dictated by
 
 1. Requests from the user a positive number representing the size of a matrix.
 2. Prints a matrix consisting of `0`s.
-3. Populates the matrix with values from `1–(input × input)`.
+3. Populates the matrix with values from `1 to (input × input)`.
 4. Prints the matrix with the newly-populated values.
 5. Swaps the contents of the matrix on one side of the diagonal formed from top right to bottom left with the other side, highlighting the elements along the diagonal and leaving them un-touched/un-swapped.
 6. Prints the flipped matrix.
